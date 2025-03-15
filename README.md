@@ -17,7 +17,7 @@ A simple **ASP.NET Core Web API** for managing car inventory. This API allows us
 ### 🚀 **Getting Started**  
 #### 🔹 **1. Clone the Repository**  
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/SHAJAR5110/ASP.NET-Core-Web-API-carInventory.git
 cd CarInventoryAPI
 ```
 
